@@ -1,7 +1,7 @@
 # 번개장터 - server
 <br/>
 <p align="center">
-  <img width="100" alt="7" src="https://play-lh.googleusercontent.com/YPj2-3X7yNz9Moqmnm5Ta5JvJ9bAjg0RIL0_8r6EGfQd8C5mieaT0eS2b0ZbykpIGA">
+  <img width="100" alt="7" src="https://api.seumlaw.com/images/seum_2b0c6bd440ca4a23a5ce5830026d67b0.jpg">
 </p>
 
 ## Description
