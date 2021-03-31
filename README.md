@@ -8,6 +8,8 @@
 
 취향 기반 중고거래 플랫폼인 번개장터 클론 프로젝트입니다. MySQL, Express.js, Node.js 스택을 활용해 번개장터의 기능 구현을 목표로 했습니다.
 
+[![Video Label](https://img.youtube.com/vi/DB-V6g2f0EU/0.jpg)](https://www.youtube.com/watch?v=DB-V6g2f0EU)
+
 
 ## Features
 
