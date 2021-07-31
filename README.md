@@ -8,10 +8,30 @@
 
 취향 기반 중고거래 플랫폼인 번개장터 클론 프로젝트입니다. MySQL, Express.js, Node.js 스택을 활용해 번개장터의 기능 구현을 목표로 했습니다.
 
-## 시연 영상
+
+## Demo_video
+
 https://www.youtube.com/watch?v=DB-V6g2f0EU
 
 [![Video Label](https://img.youtube.com/vi/DB-V6g2f0EU/0.jpg)](https://www.youtube.com/watch?v=DB-V6g2f0EU)
+
+
+## Open API
+
+- 유저의 배송지를 등록하는 기능에  **네이버 지역검색 API** 를 활용하여 개발하였습니다.
+  
+
+- 유저의 배송지를 도로명 주소로 등록하는 기능에 **행정안전부 도로명 주소 API** 를 활용하여 개발하였습니다.
+
+
+
+
+## ERD
+설계한 데이테이스 Diagram 입니다
+
+<img src="https://postfiles.pstatic.net/MjAyMTA4MDFfMjE5/MDAxNjI3NzQ0NDAwMjA1.3XEGD_ssaCtC5NRf_Mp2E6Dy9K5BepBWt6wVVB9TioEg.v4RQYTOlHFyEZZKcp2eZIzpTBx0HWFbEVAJ3WILkxDgg.PNG.kkhhjj888/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2021-08-01_%EC%98%A4%EC%A0%84_12.12.30.png?type=w966" width="400">
+
+
 
 
 
@@ -89,3 +109,7 @@ https://www.youtube.com/watch?v=DB-V6g2f0EU
   - MySQL
   - Bcrypt
   - JWT
+
+
+### Usage
+`Database.js` 파일을 `config` 내부에 생성하여 본인의 Database 정보를 입력해주신 후 사용하시면 됩니다.
