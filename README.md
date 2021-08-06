@@ -4,10 +4,13 @@
   <img width="500" alt="15" src="https://api.seumlaw.com/images/seum_2b0c6bd440ca4a23a5ce5830026d67b0.jpg">
 </p>
 
+<br>
+
 ## Description
 
 취향 기반 중고거래 플랫폼인 번개장터 클론 프로젝트입니다. MySQL, Express.js, Node.js 스택을 활용해 번개장터의 기능 구현을 목표로 했습니다.
 
+<br>
 
 ## Demo_video
 
@@ -15,6 +18,7 @@ https://www.youtube.com/watch?v=DB-V6g2f0EU
 
 [![Video Label](https://img.youtube.com/vi/DB-V6g2f0EU/0.jpg)](https://www.youtube.com/watch?v=DB-V6g2f0EU)
 
+<br>
 
 ## Open API
 
@@ -24,12 +28,8 @@ https://www.youtube.com/watch?v=DB-V6g2f0EU
 - 유저의 배송지를 도로명 주소로 등록하는 기능에 **행정안전부 도로명 주소 API** 를 활용하여 개발하였습니다.
 
 
-
-
-
-
-
-
+<br>
+<br>
 
 
 
@@ -86,6 +86,8 @@ https://www.youtube.com/watch?v=DB-V6g2f0EU
    - [X] 배송지 정보 확인
    - [X] 배송지 삭제
 
+<br>
+<br>
 
 ## Requirements
 
