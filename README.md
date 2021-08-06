@@ -26,10 +26,7 @@ https://www.youtube.com/watch?v=DB-V6g2f0EU
 
 
 
-## ERD
-설계한 데이테이스 Diagram 입니다
 
-<img src="https://postfiles.pstatic.net/MjAyMTA4MDFfMjE5/MDAxNjI3NzQ0NDAwMjA1.3XEGD_ssaCtC5NRf_Mp2E6Dy9K5BepBWt6wVVB9TioEg.v4RQYTOlHFyEZZKcp2eZIzpTBx0HWFbEVAJ3WILkxDgg.PNG.kkhhjj888/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2021-08-01_%EC%98%A4%EC%A0%84_12.12.30.png?type=w966" width="400">
 
 
 
